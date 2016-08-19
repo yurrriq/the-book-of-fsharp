@@ -1,0 +1,28 @@
+{
+  "name": "the-book-of-fsharp",
+  "version": "1.0.0",
+  "description": "Working through The Book of F#.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"There is no spoon.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurrriq/the-book-of-fsharp.git"
+  },
+  "keywords": [
+    "fsharp",
+    ".NET",
+    "F#"
+  ],
+  "author": "Eric Bailey",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yurrriq/the-book-of-fsharp/issues"
+  },
+  "homepage": "https://github.com/yurrriq/the-book-of-fsharp#readme",
+  "dependencies": {
+    "generator-fsharp": "^0.5.2",
+    "yo": "^1.8.4"
+  }
+}
